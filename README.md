@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-prevencao-de-recuperacao-de-epidemia_114360-3008.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://image.freepik.com/fotos-gratis/jovem-empresaria-asiatica-usando-mascara-facial-no-armazem-usando-tablet-digital-verificando-o-inventario_7861-2913.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ##  Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet
