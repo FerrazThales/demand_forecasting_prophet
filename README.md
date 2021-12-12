@@ -1,24 +1,19 @@
+##  Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet
+
 <p align="center">
   <img src="https://image.freepik.com/fotos-gratis/jovem-empresaria-asiatica-usando-mascara-facial-no-armazem-usando-tablet-digital-verificando-o-inventario_7861-2913.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
-##  Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet
-
 <p>
-Como os dados públicos podem ajudar na tomada de decisões das pessoas e dos governos durante a pandemia?
+Forecasting da base de dados de uma empresa especializada em vinhos utilizando o modelo estatístico ARIMA e o framework Prophet do Facebook.
 </p>
 
-Nesta análise pretendi investigar o avanço da COVID-19 no mundo através de dados e fatos. Com isso, utilizei métricas estatísticas e visualizações gráficas para melhor explorar as informações. 
-
-<p>
-Qual foi a taxa de crescimento de casos do vírus? E a taxa de letalidade? A vacinação colabora para a diminuição de mortos na pandemia? Todos os países enfrentaram esta enfermidade da mesma maneira? No triste ranking de mortos, quais países se sobresaíram?
-</p>
-
-<p>
-  
-A resposta para esta e outras perguntas podem ser encontradas no meu [Repositório do Github sobre a COVID-19](https://github.com/FerrazThales/Analysis_COVID_19/blob/953e1c68ee2c8cafad48ac17f6ed32ef1239b586/Panorama_da_COVID_19.ipynb)
-  
-</p>
+O que você vai aprender neste projeto:
+* O que é previsão de demanda, os tipos de projeções e sua importância para todas organizações.
+* Como está mercado vinícola e quais são suas tendências.
+* Diferentes estratégias para agrupar duas bases de dados.
+* O que são Séries Temporais e a análise de sua estacionaridade.
+* Aplicações do ARIMA e Prophet.
 
 <p>
   
